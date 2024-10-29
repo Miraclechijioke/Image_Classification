@@ -1,0 +1,4 @@
+Here is the oogle drive link, download model as "Animals_Class.keras" file
+
+https://drive.google.com/drive/folders/15zGd3WqLKwPz826GrPleLXv4HLK6g5FN?usp=sharing
+
